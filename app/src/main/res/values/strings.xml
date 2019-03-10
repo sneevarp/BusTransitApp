@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TransitTrackerApp</string>
+    <string name="title_activity_maps">Map</string>
+
+        <string-array name="countries_array">
+            <item>Hayward</item>
+            <item>Fremont</item>
+            <item>San Fransisco</item>
+            <item>Oakland</item>
+            <item>Union City</item>
+            <item>San Ramon</item>
+            <item>Palo Alto</item>
+            <item>Redwood City</item>
+        </string-array>
+
+</resources>
